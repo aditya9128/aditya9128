@@ -1,16 +1,26 @@
 ## Hi there 👋
 
 <!--
-**aditya9128/aditya9128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Aditya 👋
 
-Here are some ideas to get you started:
+Backend-focused Full Stack Developer building production-grade systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Live Projects
+
+CampusMatch (200+ active users)
+
+Elderly Care Assistant (25+ REST APIs)
+
+🛠 Tech Stack
+
+Node.js | Express | MongoDB | Django | FastAPI | React | JWT | WebSockets
+
+🔐 Interests
+
+Backend Architecture | Scalable Systems | Security Engineering 
+
+📫 Reach Me
+
+LinkedIn link - https://www.linkedin.com/in/adityakumar9128/
+Email - aditya.k180204@gmail.com
 -->
