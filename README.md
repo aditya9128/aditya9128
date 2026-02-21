@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 Hi, I’m Aditya 👋
 
 Backend-focused Full Stack Developer building production-grade systems.
@@ -23,4 +22,4 @@ Backend Architecture | Scalable Systems | Security Engineering
 
 LinkedIn link - https://www.linkedin.com/in/adityakumar9128/
 Email - aditya.k180204@gmail.com
--->
+
